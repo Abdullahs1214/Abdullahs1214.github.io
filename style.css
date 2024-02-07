@@ -113,6 +113,12 @@ body{
   display: flex;
   width:100%;
 }
+.project_entry1{
+  padding: 0;
+  height: auto;
+  display: flex;
+  width:auto;
+}
 
 .project_entry_display{
   display: flex;
